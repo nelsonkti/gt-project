@@ -231,7 +231,7 @@ CREATE TABLE `live_config` (
 -- ----------------------------
 -- Records of live_config
 -- ----------------------------
-INSERT INTO `live_config` VALUES ('gt-project 专业企业网站内容管理系统', '', 'Copyright ©2018-2019<a href=\"https://github.com/duiying/gt-project\" target=\"_blank\" style=\"font-weight:bold;color:#fff;\"> GitHub </a>版权所有', '京ICP备11018762号', 'gt-project 内容管理框架, 做最简约的PHP开源软件', 'gt-project, 内容管理系统, 后台管理系统, 企业建站系统, php开源软件,thinkphp, 简约风', '基于ThinkPHP3.2框架完成的企业网站CMS系统, 快速搭建可商用的企业网站, 接私活利器', 'gt-project科技有限公司', '北京望京sohu商业街', '010-24323424', '010-54354325', '1822581649@qq.com', '1822581649', '17725027889');
+INSERT INTO `live_config` VALUES ('gt-project 专业企业网站内容管理系统', '', 'Copyright ©2018-2019<a href=\"https://github.com/duiying\" target=\"_blank\" style=\"font-weight:bold;color:#fff;\"> GitHub </a>版权所有', '京ICP备11018762号', 'gt-project 内容管理框架, 做最简约的PHP开源软件', 'gt-project, 内容管理系统, 后台管理系统, 企业建站系统, php开源软件,thinkphp, 简约风', '基于ThinkPHP3.2框架完成的企业网站CMS系统, 快速搭建可商用的企业网站, 接私活利器', 'gt-project科技有限公司', '北京望京sohu商业街', '010-24323424', '010-54354325', '1822581649@qq.com', '1822581649', '17725027889');
 
 -- ----------------------------
 -- Table structure for live_job

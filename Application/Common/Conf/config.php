@@ -1,10 +1,10 @@
 <?php
-return [
+return [TP3-CMS
     // '配置项' => '配置值'
     'DB_TYPE' 		          => 'mysql',
-    'DB_HOST' 		          => '127.0.0.1',
+    'DB_HOST' 		          => '129.28.166.92',
     'DB_USER' 		          => 'root',
-    'DB_PWD' 		          => 'fzy1017463614',
+    'DB_PWD' 		          => '123456',
     'DB_PORT' 		          => 3306,
     'DB_NAME' 		          => 'cms',
     'DB_CHARSET' 	          => 'utf8mb4',

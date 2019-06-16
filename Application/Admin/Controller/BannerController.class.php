@@ -7,7 +7,7 @@
  * @category  PHP
  * @package   ThinkPHP3.2
  * @author    wangyaxian <1822581649@qq.com>
- * @link      https://github.com/duiying/gt-project
+ * @link      https://github.com/duiying
  */
 
 namespace Admin\Controller;
@@ -21,7 +21,7 @@ use Think\Controller;
  * @category  PHP
  * @package   ThinkPHP3.2
  * @author    wangyaxian <1822581649@qq.com>
- * @link      https://github.com/duiying/gt-project
+ * @link      https://github.com/duiying
  */
 class BannerController extends CommonController 
 {

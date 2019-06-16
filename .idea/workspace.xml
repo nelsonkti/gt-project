@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770cdee8-d97e-42d1-8a1d-69d0974662ae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1597f4e3c9028bbc0e7318d11b75af74.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1597f4e3c9028bbc0e7318d11b75af74.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Admin/19_05_21.log" afterPath="$PROJECT_DIR$/Application/Runtime/Logs/Admin/19_05_21.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1e2c869bd8911c3f098d2a5c15bf2453.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1e2c869bd8911c3f098d2a5c15bf2453.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/21d23c7df60ce43b179c1ac208bf210b.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/21d23c7df60ce43b179c1ac208bf210b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/22e1ae56de7cd2188a6c84240f3a78b7.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/22e1ae56de7cd2188a6c84240f3a78b7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/64594637bdac4ffd5e4b51a1074bdbdb.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/64594637bdac4ffd5e4b51a1074bdbdb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7037a8d5a64fd30b57d5fa54024ea286.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7037a8d5a64fd30b57d5fa54024ea286.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/71667e699eae66b4954cb62aa6e05a39.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/71667e699eae66b4954cb62aa6e05a39.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/761055de2f430bef08441163fbb8bda7.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/761055de2f430bef08441163fbb8bda7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7645071fec769cd85ede35bfe25a4dbf.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7645071fec769cd85ede35bfe25a4dbf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7a4184ffe8f804b12b2e7f8851dd8f7d.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7a4184ffe8f804b12b2e7f8851dd8f7d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7d3853b9124308dc4976e4e626b1b8f7.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7d3853b9124308dc4976e4e626b1b8f7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/88b59d3fb1fa005628d7a2942fdf93a1.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/88b59d3fb1fa005628d7a2942fdf93a1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/96f1079dc513765702ec3bb82f6b6e84.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/96f1079dc513765702ec3bb82f6b6e84.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9b9de4d9bbd642501a826c4df69768ef.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9b9de4d9bbd642501a826c4df69768ef.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9bb5e7ead1bbec7c3d970a481af28a6e.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9bb5e7ead1bbec7c3d970a481af28a6e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/AuthController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/AuthController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/BannerController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/BannerController.class.php" />
@@ -21,19 +41,24 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/MsgController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/MsgController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/MsgController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/MsgController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/NavController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/NavController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/RoleController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/RoleController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/RuntimeController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/RuntimeController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/UploadController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/UploadController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/UploadImageModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/UploadImageModel.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news/art-37.html" afterPath="$PROJECT_DIR$/news/art-37.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client.html" afterPath="$PROJECT_DIR$/client.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cms.sql" afterPath="$PROJECT_DIR$/cms.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/job.html" afterPath="$PROJECT_DIR$/job.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/msg.html" afterPath="$PROJECT_DIR$/msg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/us.html" afterPath="$PROJECT_DIR$/us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b1c811433c5eadbc24d5de82d83bcf59.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b1c811433c5eadbc24d5de82d83bcf59.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b2351874818a2de97b65ac8b50a0fb2c.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b2351874818a2de97b65ac8b50a0fb2c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b35d77029c5f30642b30c7a996208f53.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b35d77029c5f30642b30c7a996208f53.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b396789e55b9c1c0001fb86b29923477.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b396789e55b9c1c0001fb86b29923477.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c3f20f8853f3017d18fb552834ce66c1.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c3f20f8853f3017d18fb552834ce66c1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c441255aa6fbb0857bca8f901a5754eb.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c441255aa6fbb0857bca8f901a5754eb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c4e487e7ef540c8b27ad1e8c9be3ab57.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c4e487e7ef540c8b27ad1e8c9be3ab57.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/cecb45903f8aa0e33f62e7ce7ef7b49f.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/cecb45903f8aa0e33f62e7ce7ef7b49f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Common/Conf/config.php" afterPath="$PROJECT_DIR$/Application/Common/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/d03b05e000a1602a727e18497027cfa5.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/d03b05e000a1602a727e18497027cfa5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/eac7addb3b6a9a46980537ef625dcef6.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/eac7addb3b6a9a46980537ef625dcef6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/f200ceb2f174f1cc6f73189fa253e93e.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/f200ceb2f174f1cc6f73189fa253e93e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/fdd4bb3674b0446edea9ce50f4381790.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/fdd4bb3674b0446edea9ce50f4381790.php" />
     </list>
     <ignored path="TP3-CMS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,100 +81,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IndexController.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="409" selection-end="409" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="1178">
-              <folding>
-                <element signature="e#6#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MsgController.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/Controller/MsgController.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="409" selection-end="409" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="912">
-              <folding>
-                <element signature="e#6#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1597f4e3c9028bbc0e7318d11b75af74.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/1597f4e3c9028bbc0e7318d11b75af74.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="73" selection-start="2990" selection-end="2990" vertical-scroll-proportion="-6.178571" vertical-offset="1100" max-vertical-offset="1482">
+            <state line="1" column="8" selection-start="14" selection-end="21" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="456">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1e2c869bd8911c3f098d2a5c15bf2453.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/1e2c869bd8911c3f098d2a5c15bf2453.php">
+      <file leaf-file-name="ArticleController.class.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="73" selection-start="5322" selection-end="5322" vertical-scroll-proportion="-5.392857" vertical-offset="2319" max-vertical-offset="2679">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="21d23c7df60ce43b179c1ac208bf210b.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/21d23c7df60ce43b179c1ac208bf210b.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="41" selection-start="5300" selection-end="5300" vertical-scroll-proportion="-7.428571" vertical-offset="2946" max-vertical-offset="3306">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="22e1ae56de7cd2188a6c84240f3a78b7.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/22e1ae56de7cd2188a6c84240f3a78b7.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="262" column="41" selection-start="8263" selection-end="8263" vertical-scroll-proportion="-7.428571" vertical-offset="4770" max-vertical-offset="5130">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="32ec6c906c117a7c2bf504769276d87a.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="47" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-4.285714" vertical-offset="1153" max-vertical-offset="1558">
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="51e9723be21469c551635d89b6b4e0e1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="41" selection-start="5743" selection-end="5743" vertical-scroll-proportion="-7.428571" vertical-offset="3079" max-vertical-offset="3439">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="52b0e2280f61446adc87276ebcd1fa5d.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="71" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-5.857143" vertical-offset="919" max-vertical-offset="1292">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5f004cf1e9f14d5763025dfa81632d70.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="73" selection-start="177" selection-end="177" vertical-scroll-proportion="0.12868632" vertical-offset="28" max-vertical-offset="2204">
+            <state line="9" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="1.6746988" vertical-offset="32" max-vertical-offset="3933">
               <folding />
             </state>
           </provider>
@@ -173,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Application/Admin/Controller/RoleController.class.php" />
-        <option value="$PROJECT_DIR$/Application/Admin/Controller/RuntimeController.class.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/UploadController.class.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Model/CommonModel.class.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Model/IndexModel.class.php" />
@@ -189,6 +131,8 @@
         <option value="$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php" />
         <option value="$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php" />
         <option value="$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php" />
+        <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
       </list>
     </option>
   </component>
@@ -225,6 +169,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,23 +188,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TP3-CMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gt-project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,16 +228,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="840" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32859176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.8036984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22526042" sideWeight="0.67140824" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22526042" sideWeight="0.19630156" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -333,135 +263,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/RoleController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="410" selection-end="410" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="3800">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/RuntimeController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="412" selection-end="412" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="1102">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/UploadController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="41" selection-start="412" selection-end="412" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="855">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Model/CommonModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="41" selection-start="399" selection-end="399" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="5206">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Model/IndexModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="41" selection-start="399" selection-end="399" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="1482">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Model/UploadImageModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="41" selection-start="403" selection-end="403" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="1520">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="409" selection-end="409" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="1178">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
+        <state line="23" column="41" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1178">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/Controller/MsgController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="409" selection-end="409" vertical-scroll-proportion="-4.678571" vertical-offset="306" max-vertical-offset="912">
-          <folding>
-            <element signature="e#6#191#0" expanded="true" />
-          </folding>
+        <state line="23" column="41" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="912">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/1597f4e3c9028bbc0e7318d11b75af74.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="73" selection-start="2990" selection-end="2990" vertical-scroll-proportion="-6.178571" vertical-offset="1100" max-vertical-offset="1482">
+        <state line="67" column="73" selection-start="2990" selection-end="2990" vertical-scroll-proportion="0.0" vertical-offset="1100" max-vertical-offset="1482">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/1e2c869bd8911c3f098d2a5c15bf2453.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="73" selection-start="5322" selection-end="5322" vertical-scroll-proportion="-5.392857" vertical-offset="2319" max-vertical-offset="2679">
+        <state line="130" column="73" selection-start="5322" selection-end="5322" vertical-scroll-proportion="0.0" vertical-offset="2319" max-vertical-offset="2679">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/21d23c7df60ce43b179c1ac208bf210b.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="41" selection-start="5300" selection-end="5300" vertical-scroll-proportion="-7.428571" vertical-offset="2946" max-vertical-offset="3306">
+        <state line="166" column="41" selection-start="5300" selection-end="5300" vertical-scroll-proportion="0.0" vertical-offset="2946" max-vertical-offset="3306">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/22e1ae56de7cd2188a6c84240f3a78b7.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="262" column="41" selection-start="8263" selection-end="8263" vertical-scroll-proportion="-7.428571" vertical-offset="4770" max-vertical-offset="5130">
+        <state line="262" column="41" selection-start="8263" selection-end="8263" vertical-scroll-proportion="0.0" vertical-offset="4770" max-vertical-offset="5130">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="47" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-4.285714" vertical-offset="1153" max-vertical-offset="1558">
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="67" column="47" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.0" vertical-offset="1153" max-vertical-offset="1558">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="41" selection-start="5743" selection-end="5743" vertical-scroll-proportion="-7.428571" vertical-offset="3079" max-vertical-offset="3439">
+        <state line="173" column="41" selection-start="5743" selection-end="5743" vertical-scroll-proportion="0.0" vertical-offset="3079" max-vertical-offset="3439">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="71" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-5.857143" vertical-offset="919" max-vertical-offset="1292">
+        <state line="57" column="71" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0" vertical-offset="919" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="73" selection-start="177" selection-end="177" vertical-scroll-proportion="0.12868632" vertical-offset="28" max-vertical-offset="2204">
+        <state line="4" column="73" selection-start="177" selection-end="177" vertical-scroll-proportion="0.07559055" vertical-offset="28" max-vertical-offset="2204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="8" selection-start="14" selection-end="21" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="1.6746988" vertical-offset="32" max-vertical-offset="3933">
           <folding />
         </state>
       </provider>

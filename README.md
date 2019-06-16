@@ -7,19 +7,19 @@
 
 基于ThinkPHP3.2框架完成的企业网站CMS系统, 快速搭建可商用的企业网站
 ### 项目概览
-![gt-project](https://raw.githubusercontent.com/duiying/img/master/gt-project.png)
+![gt-project](https://raw.githubusercontent.com/duiying/img/master.png)
 
 ### 安装
 ```
 1. 克隆项目到本地
 2. 修改 Application/Common/Conf/config.php 文件中的数据库配置信息
 3. 导入项目根目录下的sql文件
-4. 访问后台 localhost/gt-project/index.php/Admin/Login/index
+4. 访问后台 localhost/index.php/Admin/Login/index
     超级管理员: admin 123456
     编辑: bianji 123456
     游客: youke 123456
 5. 登录后台以后点击更新缓存, 生成前台静态页面
-6. 访问前台 localhost/gt-project
+6. 访问前台 localhost
 ```
 
 ### 使用说明
