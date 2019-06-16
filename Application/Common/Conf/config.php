@@ -1,5 +1,5 @@
 <?php
-return [TP3-CMS
+return [
     // '配置项' => '配置值'
     'DB_TYPE' 		          => 'mysql',
     'DB_HOST' 		          => '129.28.166.92',

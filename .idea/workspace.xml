@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770cdee8-d97e-42d1-8a1d-69d0974662ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1597f4e3c9028bbc0e7318d11b75af74.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1597f4e3c9028bbc0e7318d11b75af74.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Admin/19_05_21.log" afterPath="$PROJECT_DIR$/Application/Runtime/Logs/Admin/19_05_21.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1e2c869bd8911c3f098d2a5c15bf2453.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/1e2c869bd8911c3f098d2a5c15bf2453.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/21d23c7df60ce43b179c1ac208bf210b.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/21d23c7df60ce43b179c1ac208bf210b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/22e1ae56de7cd2188a6c84240f3a78b7.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/22e1ae56de7cd2188a6c84240f3a78b7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/64594637bdac4ffd5e4b51a1074bdbdb.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/64594637bdac4ffd5e4b51a1074bdbdb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7037a8d5a64fd30b57d5fa54024ea286.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7037a8d5a64fd30b57d5fa54024ea286.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/71667e699eae66b4954cb62aa6e05a39.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/71667e699eae66b4954cb62aa6e05a39.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/761055de2f430bef08441163fbb8bda7.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/761055de2f430bef08441163fbb8bda7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7645071fec769cd85ede35bfe25a4dbf.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7645071fec769cd85ede35bfe25a4dbf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7a4184ffe8f804b12b2e7f8851dd8f7d.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7a4184ffe8f804b12b2e7f8851dd8f7d.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7d3853b9124308dc4976e4e626b1b8f7.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/7d3853b9124308dc4976e4e626b1b8f7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/88b59d3fb1fa005628d7a2942fdf93a1.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/88b59d3fb1fa005628d7a2942fdf93a1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/96f1079dc513765702ec3bb82f6b6e84.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/96f1079dc513765702ec3bb82f6b6e84.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9b9de4d9bbd642501a826c4df69768ef.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9b9de4d9bbd642501a826c4df69768ef.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9bb5e7ead1bbec7c3d970a481af28a6e.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/9bb5e7ead1bbec7c3d970a481af28a6e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/AuthController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/AuthController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/BannerController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/BannerController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/CaseController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/CaseController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/CommonController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/CommonController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/CommonModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/CommonModel.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/ConfigController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/ConfigController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/CronController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/CronController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/HomeController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/HomeController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/IndexModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/IndexModel.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/JobController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/JobController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/LinkController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/LinkController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/ManagerController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/ManagerController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/MsgController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/MsgController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/MsgController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/MsgController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/NavController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/NavController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/RoleController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/RoleController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/RuntimeController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/RuntimeController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/UploadController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/UploadController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/UploadImageModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/UploadImageModel.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b1c811433c5eadbc24d5de82d83bcf59.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b1c811433c5eadbc24d5de82d83bcf59.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b2351874818a2de97b65ac8b50a0fb2c.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b2351874818a2de97b65ac8b50a0fb2c.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b35d77029c5f30642b30c7a996208f53.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b35d77029c5f30642b30c7a996208f53.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b396789e55b9c1c0001fb86b29923477.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b396789e55b9c1c0001fb86b29923477.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c3f20f8853f3017d18fb552834ce66c1.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c3f20f8853f3017d18fb552834ce66c1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c441255aa6fbb0857bca8f901a5754eb.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c441255aa6fbb0857bca8f901a5754eb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c4e487e7ef540c8b27ad1e8c9be3ab57.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/c4e487e7ef540c8b27ad1e8c9be3ab57.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/cecb45903f8aa0e33f62e7ce7ef7b49f.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/cecb45903f8aa0e33f62e7ce7ef7b49f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Common/Conf/config.php" afterPath="$PROJECT_DIR$/Application/Common/Conf/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/d03b05e000a1602a727e18497027cfa5.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/d03b05e000a1602a727e18497027cfa5.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/eac7addb3b6a9a46980537ef625dcef6.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/eac7addb3b6a9a46980537ef625dcef6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/f200ceb2f174f1cc6f73189fa253e93e.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/f200ceb2f174f1cc6f73189fa253e93e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/fdd4bb3674b0446edea9ce50f4381790.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/fdd4bb3674b0446edea9ce50f4381790.php" />
     </list>
     <ignored path="TP3-CMS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="8" selection-start="14" selection-end="21" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="456">
+            <state line="8" column="38" selection-start="266" selection-end="266" vertical-scroll-proportion="0.2345679" vertical-offset="0" max-vertical-offset="648">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArticleController.class.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ArticleController.class.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="1.6746988" vertical-offset="32" max-vertical-offset="3933">
+            <state line="9" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.964286" vertical-offset="32" max-vertical-offset="3933">
               <folding />
             </state>
           </provider>
@@ -131,8 +75,8 @@
         <option value="$PROJECT_DIR$/Application/Runtime/Cache/Admin/51e9723be21469c551635d89b6b4e0e1.php" />
         <option value="$PROJECT_DIR$/Application/Runtime/Cache/Admin/52b0e2280f61446adc87276ebcd1fa5d.php" />
         <option value="$PROJECT_DIR$/Application/Runtime/Cache/Admin/5f004cf1e9f14d5763025dfa81632d70.php" />
-        <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
       </list>
     </option>
   </component>
@@ -188,6 +132,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP3-CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gt-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP3-CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gt-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP3-CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gt-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -229,12 +227,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.8036984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8036984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22526042" sideWeight="0.19630156" order="0" side_tool="false" content_ui="combo" />
@@ -361,16 +359,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="14" selection-end="21" vertical-scroll-proportion="-0.6785714" vertical-offset="0" max-vertical-offset="456">
+        <state line="9" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.964286" vertical-offset="32" max-vertical-offset="3933">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/ArticleController.class.php">
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="176" selection-end="176" vertical-scroll-proportion="1.6746988" vertical-offset="32" max-vertical-offset="3933">
+        <state line="8" column="38" selection-start="266" selection-end="266" vertical-scroll-proportion="0.2345679" vertical-offset="0" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
